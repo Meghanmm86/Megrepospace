@@ -7,13 +7,13 @@ This github repository will walk you through setting up your Git and GitHub acco
 ## Checklist
 
 - [x] View this README  
-- [ ] Create a GitHub Account  
-- [ ] Open your Command Line Interface  
-- [ ] Setting up your Username and Email  
-- [ ] Setting up your Authentication  
-- [ ] Forking a Repository  
-- [ ] Cloning a Repository  
-- [ ] Making Changes to the Repository  
+- [x] Create a GitHub Account  
+- [x] Open your Command Line Interface  
+- [x] Setting up your Username and Email  
+- [x] Setting up your Authentication  
+- [x] Forking a Repository  
+- [x] Cloning a Repository  
+- [x] Making Changes to the Repository  
 - [ ] Commiting Changes Locally  
 - [ ] Moving Changes to GitHub   
 - [ ] Standard Work Flow
@@ -117,14 +117,14 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 3. Your next goal is to open that file and edit it. Instructions below will use a basic text editor, but you may open the file any way you wish to modify the text inside.  
     > MacOS: type `open -e README.md`  
     > Windows: type `notepad README.md`
-4. Place an `x` in each step you completed of the Checklist. This is simulating you modifying files while working on a project.  
+4. Place an `x` in each step you completed of the Checklist. This is simulating you modifying fs while working on a project.  
     You should not place an `x` in the Committing Changes Locally or Moving Changes to GitHub yet.
 4. Save your changes/
     > MacOS: press `Command S`  
     > Windows: press `CTRL S`
 6. Close your editor and return to your command line interface. You should still be in the same directory as before.
 
----
+---cd
 
 ## Commiting Changes Locally
 *This step will typically be done one or more times on a project. Larger projects may require you to complete this step many times.*
