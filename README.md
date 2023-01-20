@@ -14,9 +14,9 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] Forking a Repository  
 - [x] Cloning a Repository  
 - [x] Making Changes to the Repository  
-- [ ] Commiting Changes Locally  
-- [ ] Moving Changes to GitHub   
-- [ ] Standard Work Flow
+- [x] Commiting Changes Locally  
+- [x] Moving Changes to GitHub   
+- [x] Standard Work Flow
 
 ---
 
@@ -141,7 +141,7 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 
 ---
 
-## Pushing Changes to GitHub
+## Pushing Changes to GitHubgit
 *This step will typically be done one or more times on a project. If connected to Codegrade, this will cause your project to be scored again.*
 1. Type:
     ```
